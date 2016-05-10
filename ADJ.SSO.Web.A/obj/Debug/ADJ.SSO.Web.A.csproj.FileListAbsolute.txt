@@ -1,0 +1,254 @@
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Web.A.dll.config
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Web.A.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Web.A.pdb
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Common.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Owin.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Redis.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Common.pdb
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Redis.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\obj\Debug\ADJ.SSO.Web.A.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\obj\Debug\ADJ.SSO.Web.A.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web.A\obj\Debug\ADJ.SSO.Web.A.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Web.A.dll.config
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Web.A.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Web.A.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Common.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Antlr3.Runtime.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.SqlServer.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Google.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Web.Infrastructure.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Newtonsoft.Json.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Owin.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Common.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Interfaces.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Redis.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Text.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Helpers.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Mvc.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Optimization.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Razor.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Deployment.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Razor.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\WebGrease.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Common.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Common.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Redis.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Text.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Helpers.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Mvc.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Optimization.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Razor.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Deployment.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Razor.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Newtonsoft.Json.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Antlr3.Runtime.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.SqlServer.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Google.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Helpers.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\EntityFramework.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\obj\Debug\ADJ.SSO.Web.A.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\obj\Debug\ADJ.SSO.Web.A.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Web.A\obj\Debug\ADJ.SSO.Web.A.csprojResolveAssemblyReference.cache
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Web.A.dll.config
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Web.A.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Web.A.pdb
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Common.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Antlr3.Runtime.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.SqlServer.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Core.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Cookies.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Facebook.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Google.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.OAuth.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Twitter.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Web.Infrastructure.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Newtonsoft.Json.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Owin.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Common.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Interfaces.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Redis.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Text.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Helpers.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Mvc.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Optimization.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Razor.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Deployment.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Razor.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\WebGrease.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ADJ.SSO.Common.pdb
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Common.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Redis.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\ServiceStack.Text.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Helpers.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Mvc.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Optimization.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.Razor.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Deployment.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\System.Web.WebPages.Razor.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Newtonsoft.Json.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Antlr3.Runtime.pdb
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\EntityFramework.SqlServer.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Core.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Facebook.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Cookies.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.OAuth.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Google.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.Twitter.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\EntityFramework.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\obj\Debug\ADJ.SSO.Web.A.csprojResolveAssemblyReference.cache
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\obj\Debug\ADJ.SSO.Web.A.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\obj\Debug\ADJ.SSO.Web.A.pdb
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Config\AppSetting.config
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Config\DataBase.config
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Web.config
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Web.Debug.config
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web.A\bin\Web.Release.config

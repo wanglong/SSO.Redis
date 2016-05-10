@@ -1,0 +1,21 @@
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\ADJ.SSO.Common.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\ADJ.SSO.Common.pdb
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Common\obj\Debug\ADJ.SSO.Common.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Common\obj\Debug\ADJ.SSO.Common.pdb
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Common\obj\Debug\ADJ.SSO.Common.csprojResolveAssemblyReference.cache
+F:\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\ADJ.SSO.Common.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\ADJ.SSO.Common.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\Newtonsoft.Json.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\Newtonsoft.Json.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Common\obj\Debug\ADJ.SSO.Common.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Common\obj\Debug\ADJ.SSO.Common.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Common\obj\Debug\ADJ.SSO.Common.csprojResolveAssemblyReference.cache
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\ADJ.SSO.Common.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\ADJ.SSO.Common.pdb
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\Newtonsoft.Json.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Common\bin\Debug\Newtonsoft.Json.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Common\obj\Debug\ADJ.SSO.Common.csprojResolveAssemblyReference.cache
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Common\obj\Debug\ADJ.SSO.Common.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Common\obj\Debug\ADJ.SSO.Common.pdb

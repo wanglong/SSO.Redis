@@ -1,0 +1,83 @@
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Web.dll.config
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Web.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Web.pdb
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\obj\Debug\ADJ.SSO.Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\obj\Debug\ADJ.SSO.Web.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\obj\Debug\ADJ.SSO.Web.pdb
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Redis.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Redis.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Common.dll
+C:\Users\Administrator\Desktop\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Common.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Web.dll.config
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Web.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Web.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Common.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\Newtonsoft.Json.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Common.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Interfaces.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Redis.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Text.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Net.Http.Formatting.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.WebHost.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Common.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Common.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Redis.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Text.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\Newtonsoft.Json.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Net.Http.Formatting.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.WebHost.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\zh-Hans\System.Web.Http.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\obj\Debug\ADJ.SSO.Web.csprojResolveAssemblyReference.cache
+F:\ADJ.SSO.Web\ADJ.SSO.Web\obj\Debug\ADJ.SSO.Web.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Web\obj\Debug\ADJ.SSO.Web.pdb
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Web.dll.config
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Web.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Web.pdb
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Common.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\Newtonsoft.Json.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Common.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Interfaces.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Redis.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Text.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Net.Http.Formatting.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.WebHost.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ADJ.SSO.Common.pdb
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Common.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Redis.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\ServiceStack.Text.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\Newtonsoft.Json.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Net.Http.Formatting.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\System.Web.Http.WebHost.xml
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\zh-Hans\System.Web.Http.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\obj\Debug\ADJ.SSO.Web.csprojResolveAssemblyReference.cache
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\obj\Debug\ADJ.SSO.Web.dll
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\obj\Debug\ADJ.SSO.Web.pdb
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\Web.config
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\Config\AppSetting.config
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\Config\DataBase.config
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\Web.Debug.config
+D:\doc\VS2012 Work\ADJ.SSO.Web\ADJ.SSO.Web\ADJ.SSO.Web\bin\Web.Release.config

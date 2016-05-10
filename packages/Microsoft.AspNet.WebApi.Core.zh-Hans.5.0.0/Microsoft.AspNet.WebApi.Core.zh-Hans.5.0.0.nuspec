@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNet.WebApi.Core.zh-Hans</id>
+    <version>5.0.0</version>
+    <title>Microsoft ASP.NET Web API Core Libraries 简体中文资源</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnetcomponent_rtw_CHS.htm</licenseUrl>
+    <projectUrl>http://www.asp.net/web-api</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>此程序包包含 ASP.NET Web API Core Libraries 的简体中文附属程序集。</description>
+    <summary>Microsoft.AspNet.WebApi.Core 程序包的简体中文资源</summary>
+    <copyright>© Microsoft Corporation。保留所有权利。</copyright>
+    <language>zh-Hans</language>
+    <tags>Microsoft AspNet WebApi AspNetWebApi</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.WebApi.Core" version="[5.0.0]" />
+    </dependencies>
+  </metadata>
+</package>

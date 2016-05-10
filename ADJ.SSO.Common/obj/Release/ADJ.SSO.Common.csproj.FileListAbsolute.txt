@@ -1,0 +1,7 @@
+F:\ADJ.SSO.Web\ADJ.SSO.Common\bin\Release\ADJ.SSO.Common.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Common\bin\Release\ADJ.SSO.Common.pdb
+F:\ADJ.SSO.Web\ADJ.SSO.Common\bin\Release\Newtonsoft.Json.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Common\bin\Release\Newtonsoft.Json.xml
+F:\ADJ.SSO.Web\ADJ.SSO.Common\obj\Release\ADJ.SSO.Common.csprojResolveAssemblyReference.cache
+F:\ADJ.SSO.Web\ADJ.SSO.Common\obj\Release\ADJ.SSO.Common.dll
+F:\ADJ.SSO.Web\ADJ.SSO.Common\obj\Release\ADJ.SSO.Common.pdb
